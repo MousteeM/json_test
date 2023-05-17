@@ -60,7 +60,11 @@ p, h1, h2, h3, h4, h5, h6 {
 
 .container > button {
   margin-bottom: 1rem;
-  width: max-content;
+  /* width: max-content; */
+  background-color: #7452A8;
+  color: #fff;
+  border: none;
+  padding: 1rem;
 }
 
 .card-container {
